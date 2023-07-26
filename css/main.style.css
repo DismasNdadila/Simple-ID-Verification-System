@@ -1,0 +1,29 @@
+.brand-name-logo{
+        font-weight: bolder;
+
+}
+
+.login-logout-btn{
+    text-align: right !important;
+}
+
+.form-button-signup{
+    font-weight: bolder !important;
+    text-transform: capitalize !important;
+}
+
+.footer-text{
+    color: white;
+}
+
+.staff-links a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+img.student-pic{
+    width: 100px !important;
+    height: 100px !important;
+    align-items: center !important;
+}
